@@ -1,7 +1,7 @@
 {
-  "name": "easyethers",
-  "version": "1.0.0",
-  "description": "",
+  "name": "myeasyethers",
+  "version": "0.0.1",
+  "description": "easy to use ethers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +12,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "ethers": "^6.11.1"
+  }
 }
