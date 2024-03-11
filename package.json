@@ -1,6 +1,6 @@
 {
   "name": "myeasyethers",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "easy to use ethers",
   "main": "index.js",
   "scripts": {
