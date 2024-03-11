@@ -1,6 +1,6 @@
 {
   "name": "myeasyethers",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "easy to use ethers",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hujunjob/EasyEthers"
+    "url": "https://github.com/Hujunjob/EasyEthers"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "ethers": "^6.11.1"
+  "dependencies": {
+    "easyrandomtool": "^1.0.1",
+    "ethers": "^6.11.1",
+    "myeasyethers": "^0.0.1"
   }
 }
